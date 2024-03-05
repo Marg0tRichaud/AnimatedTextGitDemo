@@ -1,0 +1,14 @@
+body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: auto;
+	background-color: rgb(23, 202, 202);
+}
+h1 {
+	font-size: 5rem;
+}
+
+.letter {
+	transition: color 1000ms;
+}
