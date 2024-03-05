@@ -3,7 +3,7 @@ body {
 	justify-content: center;
 	align-items: center;
 	height: auto;
-	background-color: darkslategray;
+	background-color: rgb(23, 202, 202);
 }
 h1 {
 	font-size: 5rem;
