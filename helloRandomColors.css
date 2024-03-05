@@ -3,10 +3,10 @@ body {
 	justify-content: center;
 	align-items: center;
 	height: auto;
-	background-color: rgb(23, 202, 202);
+	background-color: teal;
 }
 h1 {
-	font-size: 5rem;
+	font-size: 16rem;
 }
 
 .letter {
